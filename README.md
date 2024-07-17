@@ -43,10 +43,12 @@ Demo:
 A live demo of the To-Do List Webpage can be found here.
 
 The screenshot of the basic structure of the to do list is this:
-![Screenshot (55)](https://github.com/user-attachments/assets/becf735e-9837-4cd6-a49d-8579bd03355b)
+![Screenshot (61)](https://github.com/user-attachments/assets/c059d415-b752-4038-bfc3-1ea984e4553f)
+
 
 The screenshot of the filled todo list is this:
-![Screenshot (56)](https://github.com/user-attachments/assets/3bffda3f-decc-47da-b2f2-e2cecf5afeb1)
+![Screenshot (60)](https://github.com/user-attachments/assets/f24f705c-e68d-47fc-8cfd-b0261449a0a6)
+
 
 
 Prerequisites:
@@ -63,7 +65,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone [https://github.com/your-username/todo-list-webpage.git](https://github.com/Dharaneeswaran04/CODTECH-TASK1.git)
+git clone [https://github.com/Dharaneeswaran04/ToDO-list.git]
 Navigate to the project directory:
 bash
 Copy code
